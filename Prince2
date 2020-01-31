@@ -1,0 +1,29 @@
+
+<html>
+<head>
+        <title> My Favorite Musician </title>
+        </head>
+        <body>
+        <h1> PRINCE </h1>
+        <p> Prince was an iconic musician because his style of music included classical, rock, reggae, rhythm and blues, alternative, funk and gospel. Prince's performances displayed not only his passion for music but his passion for the human soul. </p>
+        <p> Prince's list of attributes listed below are just a few of his wonderful gifts to the world. </p>
+        <h2> The top of my list of Prince's amazing attributes are: </h2>
+            <Ul>
+                <li> Prince employed female bassists and guitarists </li>
+                <li> Prince also included female drummers in his band "Third Eye Girl" </li>
+                <li> Prince believed in the freedom to create </li>
+                <li> Prince was passionate about his music </li>
+                <li> Prince supported many charities </li>
+                <li> Prince was an energetic and magnetic performer </li>
+                <li> Prince taught individuals to believe in themselves and to not be afraid to make a positive mark on the world </li>
+                </Ul>
+                <img src="prince.jpg" alt="Prince starring into the camera">
+                <h2> Please click on the link below to see a biography of the artist. </h2>
+                <a href="https://www.biography.com/musician/prince" target="_blank">Visit Prince Rogers Nelson</a>
+                <footer>
+                  <p> Posted by:  Kelley McFarland </p>
+                  <p> Contact Information: <a href ="mailto:kelmcfarland@my.lonestar.edu">
+                    kelmcfarland@my.lonestar.edu</a>.</p>
+                  </footer>
+                </body>
+                  </html>
